@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rishi-bhaskar-2b0115377"><img src="https://img.shields.io/badge/LinkedIn-17171f?style=for-the-badge" alt="LinkedIn"></a>
   <a href="mailto:rishibhaskar254@gmail.com"><img src="https://img.shields.io/badge/Email-17171f?style=for-the-badge&logo=gmail&logoColor=ff7a59" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Ghaziabad,_India-17171f?style=for-the-badge&logo=googlemaps&logoColor=ff7a59" alt="Ghaziabad, India">
+  <img src="https://img.shields.io/badge/India-17171f?style=for-the-badge&logo=googlemaps&logoColor=ff7a59" alt="Ghaziabad, India">
 </p>
 
 ## About
