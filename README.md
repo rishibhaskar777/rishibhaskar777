@@ -25,7 +25,7 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 <p>
   <a href="https://github.com/rishibhaskar777/whichai"><img src="./card-whichai.svg" alt="WhichAI" width="49%"></a>
   <a href="https://github.com/rishibhaskar777/PackComply"><img src="./card-packcomply.svg" alt="PackComply" width="49%"></a>
-  <a href="https://github.com/Siddharth-123-creator/shastra-project"><img src="./card-shastra.svg" alt="Shastra" width="49%"></a>
+  <a <a href="https://github.com/Nitinmittal373/HACKATHON_DTU_2026"><img src="./card-shastra.svg" alt="Shastra" width="49%"></a>
   <a href="https://github.com/rishibhaskar777?tab=repositories"><img src="./card-more.svg" alt="All repositories" width="49%"></a>
 </p>
 
