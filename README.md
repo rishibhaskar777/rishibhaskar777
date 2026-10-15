@@ -25,8 +25,12 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 <p>
   <a href="https://github.com/rishibhaskar777/whichai"><img src="./card-whichai.svg" alt="WhichAI" width="49%"></a>
   <a href="https://github.com/rishibhaskar777/PackComply"><img src="./card-packcomply.svg" alt="PackComply" width="49%"></a>
-  <a <a href="https://github.com/Nitinmittal373/HACKATHON_DTU_2026"><img src="./card-shastra.svg" alt="Shastra" width="49%"></a>
-  <a href="https://github.com/rishibhaskar777?tab=repositories"><img src="./card-more.svg" alt="All repositories" width="49%"></a>
+  <a href="https://github.com/Nitinmittal373/HACKATHON_DTU_2026"><img src="./card-shastra.svg" alt="Shastra" width="49%"></a>
+  <a href="https://github.com/begoneeraj/Life-rpg"><img src="./card-liferpg.svg" alt="Life RPG" width="49%"></a>
+</p>
+
+<p>
+  <a href="https://github.com/rishibhaskar777?tab=repositories"><img src="./card-more.svg" alt="All repositories" width="98.6%"></a>
 </p>
 
 ## Toolkit
@@ -38,6 +42,7 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
   <img src="https://img.shields.io/badge/TypeScript-17171f?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-17171f?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-17171f?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-17171f?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Node.js-17171f?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-17171f?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/MongoDB-17171f?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
@@ -50,11 +55,6 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/rishibhaskar777/PackComply/pull/6) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-2. 🎉 Merged PR [#5](https://github.com/rishibhaskar777/PackComply/pull/5) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-3. 💪 Opened PR [#5](https://github.com/rishibhaskar777/PackComply/pull/5) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-4. 🎉 Merged PR [#19](https://github.com/rishibhaskar777/whichai/pull/19) in [rishibhaskar777/whichai](https://github.com/rishibhaskar777/whichai)
-5. 💪 Opened PR [#19](https://github.com/rishibhaskar777/whichai/pull/19) in [rishibhaskar777/whichai](https://github.com/rishibhaskar777/whichai)
 <!--END_SECTION:activity-->
 
 <br>
