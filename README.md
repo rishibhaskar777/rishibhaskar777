@@ -37,6 +37,11 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com/rishibhaskar777/PackComply/pull/6) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+2. 💪 Opened PR [#7](https://github.com/rishibhaskar777/PackComply/pull/7) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+3. 💪 Opened PR [#6](https://github.com/rishibhaskar777/PackComply/pull/6) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+4. 🎉 Merged PR [#5](https://github.com/rishibhaskar777/PackComply/pull/5) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+5. 💪 Opened PR [#5](https://github.com/rishibhaskar777/PackComply/pull/5) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
 <!--END_SECTION:activity-->
 
 <br>
