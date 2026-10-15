@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-label="PackComply">
+<title>PackComply</title>
+<rect x="0.75" y="0.75" width="578.5" height="248.5" rx="14" fill="#0e0e14" stroke="#26252f" stroke-width="1.5" />
+<rect x="32" y="30" width="4" height="14" fill="#ff7a59"/>
+<text x="44" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#ff7a59">GOVTECH · AI</text>
+<text x="548" y="46" text-anchor="end" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#6f6c80">↗</text>
+<text x="32" y="86" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#f4f1ec">PackComply</text>
+<text x="32" y="124" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#a9a5b5">Checks packaged-goods labels against India’s</text><text x="32" y="148" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#a9a5b5">Legal Metrology rules from a single photo,</text><text x="32" y="172" font-family="'Segoe UI', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#a9a5b5">with an explainable report for inspectors.</text>
+<rect x="32" y="198" width="65" height="26" rx="13" fill="none" stroke="#3a3946"/><text x="64.5" y="215.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#a9a5b5">Python</text><rect x="105" y="198" width="43" height="26" rx="13" fill="none" stroke="#3a3946"/><text x="126.5" y="215.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#a9a5b5">OCR</text><rect x="156" y="198" width="109" height="26" rx="13" fill="none" stroke="#3a3946"/><text x="210.5" y="215.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#a9a5b5">InnoTech ’26</text>
+</svg>
