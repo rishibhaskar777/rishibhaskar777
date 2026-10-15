@@ -30,7 +30,7 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 </p>
 
 <p>
-  <a href="https://github.com/rishibhaskar777?tab=repositories"><img src="./card-more.svg" alt="All repositories" width="98.6%"></a>
+  <a href="https://github.com/rishibhaskar777?tab=repositories"><img src="./card-archive.svg" alt="All repositories" width="98.6%"></a>
 </p>
 
 ## Toolkit
