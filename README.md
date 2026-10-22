@@ -37,11 +37,11 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/rishibhaskar777/PackComply/pull/21) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-2. 💪 Opened PR [#21](https://github.com/rishibhaskar777/PackComply/pull/21) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-3. 🎉 Merged PR [#20](https://github.com/rishibhaskar777/PackComply/pull/20) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-4. 💪 Opened PR [#20](https://github.com/rishibhaskar777/PackComply/pull/20) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-5. 🎉 Merged PR [#19](https://github.com/rishibhaskar777/PackComply/pull/19) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+1. 🎉 Merged PR [#22](https://github.com/rishibhaskar777/PackComply/pull/22) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+2. 💪 Opened PR [#22](https://github.com/rishibhaskar777/PackComply/pull/22) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+3. 🎉 Merged PR [#21](https://github.com/rishibhaskar777/PackComply/pull/21) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+4. 💪 Opened PR [#21](https://github.com/rishibhaskar777/PackComply/pull/21) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+5. 🎉 Merged PR [#20](https://github.com/rishibhaskar777/PackComply/pull/20) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
 <!--END_SECTION:activity-->
 
 <br>
