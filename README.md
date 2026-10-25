@@ -37,11 +37,11 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/rishibhaskar777/PackComply/pull/24) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-2. 🎉 Merged PR [#25](https://github.com/rishibhaskar777/PackComply/pull/25) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-3. 💪 Opened PR [#25](https://github.com/rishibhaskar777/PackComply/pull/25) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-4. 💪 Opened PR [#24](https://github.com/rishibhaskar777/PackComply/pull/24) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
-5. 🎉 Merged PR [#23](https://github.com/rishibhaskar777/PackComply/pull/23) in [rishibhaskar777/PackComply](https://github.com/rishibhaskar777/PackComply)
+1. 🎉 Merged PR [#9](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/9) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+2. 💪 Opened PR [#9](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/9) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+3. 🎉 Merged PR [#7](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/7) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+4. 💪 Opened PR [#7](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/7) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+5. 🎉 Merged PR [#5](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/5) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
 <!--END_SECTION:activity-->
 
 <br>
