@@ -37,11 +37,11 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/10) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-2. 💪 Opened PR [#10](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/10) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-3. 🎉 Merged PR [#9](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/9) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-4. 💪 Opened PR [#9](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/9) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-5. 🎉 Merged PR [#7](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/7) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+1. 🎉 Merged PR [#13](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/13) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+2. 💪 Opened PR [#13](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/13) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+3. 🎉 Merged PR [#11](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/11) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+4. 💪 Opened PR [#11](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/11) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+5. 🎉 Merged PR [#10](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/10) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
 <!--END_SECTION:activity-->
 
 <br>
