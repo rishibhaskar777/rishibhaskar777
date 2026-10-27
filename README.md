@@ -37,11 +37,11 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/18) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-2. 💪 Opened PR [#19](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/19) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-3. 🎉 Merged PR [#16](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/16) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-4. 🗣 Commented on [#12](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/12#issuecomment-6433577092) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-5. ❌ Closed PR [#12](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/12) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+1. 🎉 Merged PR [#19](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/19) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+2. ❌ Closed PR [#18](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/18) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+3. 💪 Opened PR [#19](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/19) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+4. 🎉 Merged PR [#16](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/16) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+5. 🗣 Commented on [#12](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/12#issuecomment-6433577092) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
 <!--END_SECTION:activity-->
 
 <br>
