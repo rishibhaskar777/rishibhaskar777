@@ -37,11 +37,11 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rishibhaskar777/dueline/pull/1) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-2. 💪 Opened PR [#1](https://github.com/rishibhaskar777/dueline/pull/1) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-3. 🎉 Merged PR [#24](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/24) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-4. 💪 Opened PR [#24](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/24) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
-5. 🎉 Merged PR [#23](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026/pull/23) in [Nitinmittal373/HACKATHON_IIIT-DELHI_2026](https://github.com/Nitinmittal373/HACKATHON_IIIT-DELHI_2026)
+1. 🎉 Merged PR [#9](https://github.com/rishibhaskar777/dueline/pull/9) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+2. 💪 Opened PR [#9](https://github.com/rishibhaskar777/dueline/pull/9) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+3. 🎉 Merged PR [#8](https://github.com/rishibhaskar777/dueline/pull/8) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+4. 💪 Opened PR [#8](https://github.com/rishibhaskar777/dueline/pull/8) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+5. 🎉 Merged PR [#7](https://github.com/rishibhaskar777/dueline/pull/7) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
 <!--END_SECTION:activity-->
 
 <br>
