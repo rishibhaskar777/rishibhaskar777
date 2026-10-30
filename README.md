@@ -37,11 +37,11 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Nitinmittal373/NeevCheck/pull/25) in [Nitinmittal373/NeevCheck](https://github.com/Nitinmittal373/NeevCheck)
-2. 🎉 Merged PR [#13](https://github.com/rishibhaskar777/dueline/pull/13) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-3. 💪 Opened PR [#25](https://github.com/Nitinmittal373/NeevCheck/pull/25) in [Nitinmittal373/NeevCheck](https://github.com/Nitinmittal373/NeevCheck)
-4. 💪 Opened PR [#13](https://github.com/rishibhaskar777/dueline/pull/13) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-5. 🎉 Merged PR [#12](https://github.com/rishibhaskar777/dueline/pull/12) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+1. 🎉 Merged PR [#14](https://github.com/rishibhaskar777/dueline/pull/14) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+2. 💪 Opened PR [#14](https://github.com/rishibhaskar777/dueline/pull/14) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+3. 🎉 Merged PR [#25](https://github.com/Nitinmittal373/NeevCheck/pull/25) in [Nitinmittal373/NeevCheck](https://github.com/Nitinmittal373/NeevCheck)
+4. 🎉 Merged PR [#13](https://github.com/rishibhaskar777/dueline/pull/13) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+5. 💪 Opened PR [#25](https://github.com/Nitinmittal373/NeevCheck/pull/25) in [Nitinmittal373/NeevCheck](https://github.com/Nitinmittal373/NeevCheck)
 <!--END_SECTION:activity-->
 
 <br>
