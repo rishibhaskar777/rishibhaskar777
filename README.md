@@ -37,11 +37,11 @@ Frontend and UI/UX are home. Full-stack is where I'm heading, one layer deeper w
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/rishibhaskar777/dueline/pull/19) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-2. 💪 Opened PR [#19](https://github.com/rishibhaskar777/dueline/pull/19) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-3. 🎉 Merged PR [#18](https://github.com/rishibhaskar777/dueline/pull/18) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-4. 💪 Opened PR [#18](https://github.com/rishibhaskar777/dueline/pull/18) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-5. 🎉 Merged PR [#17](https://github.com/rishibhaskar777/dueline/pull/17) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+1. 🎉 Merged PR [#23](https://github.com/rishibhaskar777/dueline/pull/23) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+2. 💪 Opened PR [#23](https://github.com/rishibhaskar777/dueline/pull/23) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+3. 🎉 Merged PR [#22](https://github.com/rishibhaskar777/dueline/pull/22) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+4. 💪 Opened PR [#22](https://github.com/rishibhaskar777/dueline/pull/22) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+5. 🎉 Merged PR [#21](https://github.com/rishibhaskar777/dueline/pull/21) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
 <!--END_SECTION:activity-->
 
 <br>
