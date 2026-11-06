@@ -40,6 +40,11 @@
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#50](https://github.com/rishibhaskar777/dueline/pull/50) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+2. 🎉 Merged PR [#49](https://github.com/rishibhaskar777/dueline/pull/49) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+3. 💪 Opened PR [#49](https://github.com/rishibhaskar777/dueline/pull/49) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+4. 🎉 Merged PR [#46](https://github.com/rishibhaskar777/dueline/pull/46) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
+5. 💪 Opened PR [#46](https://github.com/rishibhaskar777/dueline/pull/46) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
 <!--END_SECTION:activity-->
 
 <br>
