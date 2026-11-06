@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/c-hero-dark.svg"><img src="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/c-hero-light.svg" alt="Rishi Bhaskar. Frontend and UI/UX developer, growing into full-stack. 2 products live, 5 hackathons in 2026, 4,400+ automated tests." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/v2-hero-dark.svg"><img src="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/v2-hero-light.svg" alt="Rishi Bhaskar. Frontend and UI/UX developer, growing into full-stack. 2 products live, 5 hackathons in 2026, 4,400+ automated tests." width="100%"></picture>
 
 <p align="center">
   <b>Live:</b> <a href="https://dueline-azure.vercel.app">Dueline</a> · <a href="https://neevcheck-up.vercel.app">NeevCheck</a>
@@ -8,7 +8,7 @@
 
 ## Shipped this month
 
-<a href="https://github.com/rishibhaskar777/dueline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/c-show-dueline-dark.svg"><img src="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/c-show-dueline-light.svg" alt="Dueline, PayPal AI Hackathon 2026: get paid from abroad without chasing. Built in 9 days, 2,444 tests, 45 merged pull requests, 14 PayPal API calls." width="100%"></picture></a>
+<a href="https://github.com/rishibhaskar777/dueline"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/v2-show-dueline-dark.svg"><img src="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/v2-show-dueline-light.svg" alt="Dueline, PayPal AI Hackathon 2026: get paid from abroad without chasing. Built in 9 days, 2,444 tests, 45 merged pull requests, 14 PayPal API calls." width="100%"></picture></a>
 
 <p>
   <a href="https://dueline-azure.vercel.app"><img src="https://raw.githubusercontent.com/rishibhaskar777/dueline/main/docs/images/home.webp" alt="Dueline home: totals in rupees, the due line and what will arrive next" width="49%"></a>
@@ -16,7 +16,7 @@
 </p>
 <p align="center"><a href="https://dueline-azure.vercel.app">Open the live demo</a> · <a href="https://github.com/rishibhaskar777/dueline">Read the code</a></p>
 
-<a href="https://github.com/Nitinmittal373/NeevCheck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/c-show-neevcheck-dark.svg"><img src="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/c-show-neevcheck-light.svg" alt="NeevCheck, HackIIITD 2026 finalist: know your builder before you book. Six public record sources, a 300 to 900 score, every check live, English and Hindi." width="100%"></picture></a>
+<a href="https://github.com/Nitinmittal373/NeevCheck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/v2-show-neevcheck-dark.svg"><img src="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/v2-show-neevcheck-light.svg" alt="NeevCheck, HackIIITD 2026 finalist: know your builder before you book. Six public record sources, a 300 to 900 score, every check live, English and Hindi." width="100%"></picture></a>
 
 <p>
   <a href="https://neevcheck-up.vercel.app"><img src="https://raw.githubusercontent.com/Nitinmittal373/NeevCheck/main/docs/assets/war-room.gif" alt="NeevCheck War Room: six lanes of public records read live" width="49%"></a>
@@ -35,16 +35,11 @@
 
 ## How I build
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/c-tools-dark.svg"><img src="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/c-tools-light.svg" alt="How I build: 4,400+ automated tests, 25 decision records, phone layouts tested at 390 px. Stack: TypeScript, React, Next.js, Tailwind CSS, FastAPI, Python, PostgreSQL, Gemini, Playwright, axe." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/v2-tools-dark.svg"><img src="https://raw.githubusercontent.com/rishibhaskar777/rishibhaskar777/main/v2-tools-light.svg" alt="How I build: 4,400+ automated tests, 25 decision records, phone layouts tested at 390 px. Stack: TypeScript, React, Next.js, Tailwind CSS, FastAPI, Python, PostgreSQL, Gemini, Playwright, axe." width="100%"></picture>
 
 ## Lately on GitHub
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/rishibhaskar777/dueline/pull/50) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-2. 🎉 Merged PR [#49](https://github.com/rishibhaskar777/dueline/pull/49) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-3. 💪 Opened PR [#49](https://github.com/rishibhaskar777/dueline/pull/49) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-4. 🎉 Merged PR [#46](https://github.com/rishibhaskar777/dueline/pull/46) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
-5. 💪 Opened PR [#46](https://github.com/rishibhaskar777/dueline/pull/46) in [rishibhaskar777/dueline](https://github.com/rishibhaskar777/dueline)
 <!--END_SECTION:activity-->
 
 <br>
